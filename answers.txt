@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
-Answer: We may consider using Git because it supports collaboration by allowing multiple people to work on the same project at the same time. Git also tracks changes to files, making it easy to review previous versions, revert mistakes, and manage contributions efficiently.
+Answer: Git allows for easy collaboration and Git also tracks changes to files, making it easy to review previous versions, fix mistakes, and manage contributions.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be used in the healthcare industry to analyze patient data and identify certain patterns. These identified patterns could help with diagnoses.
