@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: We may consider using Git because it supports collaboration by allowing multiple people to work on the same project at the same time. Git also tracks changes to files, making it easy to review previous versions, revert mistakes, and manage contributions efficiently.
